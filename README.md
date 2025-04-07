@@ -1,2 +1,1 @@
-# MDST-External
-# Hello, welcome to my website
+# Michgan Data Science Team External Affairs
